@@ -521,7 +521,7 @@
     </li>
     <li>
       <div class="sign-icon">💨</div>
-      <div class="sign_text">
+      <div class="sign-text">
         <strong>Thay đổi thói quen đi vệ sinh kéo dài</strong>
         <span>Tiêu chảy hoặc táo bón xen kẽ, đi cầu thấy không hết — kéo dài hơn 4 tuần.</span>
       </div>
